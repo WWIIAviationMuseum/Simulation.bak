@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/ThirdPerson/AI/Enemy_Character.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/DS/DBTZDU5S3BXMXH52IV03AS.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GC/JCQYGM6NKDHIFZ5XC0DLMH.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/S9/HSMG7F7JFEZA1G3MYT9MXX.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7M/M9JLM8IWHGUI0I651L63S2.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/ThirdPerson/AI/BB_Enemy.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/ThirdPerson/AI/Enemy_controller.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/ThirdPerson/AI/BT_Enemy.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/ThirdPerson/AI/BTT_ChasePlayer.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/ThirdPerson/AI/BTT_FindRandomPatrol.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XV/02E7R5GXK38NSLWC04W3XO.uasset"
+			]
+		}
+	]
+}

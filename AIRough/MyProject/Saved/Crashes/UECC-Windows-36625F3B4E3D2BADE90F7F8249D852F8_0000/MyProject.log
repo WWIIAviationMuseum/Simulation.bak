@@ -2540,28 +2540,3 @@ Script Stack (1 frames) :
 [2024.01.20-23.36.03:485][ 69]LogOutputDevice: Error: [Callstack] 0x00007ff86309257d KERNEL32.DLL!UnknownFunction []
 [2024.01.20-23.36.03:486][ 69]LogOutputDevice: Error: [Callstack] 0x00007ff86530aa58 ntdll.dll!UnknownFunction []
 [2024.01.20-23.36.03:486][ 69]LogOutputDevice: Error: 
-[2024.01.20-23.36.03:491][ 69]LogStats:                SubmitErrorReport -  0.000 s
-[2024.01.20-23.36.04:628][ 69]LogStats:                    SendNewReport -  1.137 s
-[2024.01.20-23.36.04:628][ 69]LogStats:             FDebug::EnsureFailed -  1.203 s
-[2024.01.20-23.36.04:628][ 69]PIE: Server logged in
-[2024.01.20-23.36.04:629][ 69]PIE: Play in editor total start time 1.295 seconds.
-[2024.01.20-23.36.11:000][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.01.20-23.36.11:000][723]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
-[2024.01.20-23.36.11:000][723]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
-[2024.01.20-23.36.11:001][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.01.20-23.36.11:001][723]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
-[2024.01.20-23.36.11:003][723]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2024.01.20-23.36.11:006][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.01.20-23.36.11:018][723]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2024.01.20-23.36.11:018][723]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
-[2024.01.20-23.36.11:018][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
-[2024.01.20-23.36.11:020][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
-[2024.01.20-23.36.11:023][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.01.20-23.36.11:026][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
-[2024.01.20-23.36.11:070][725]LogPlayLevel: Display: Destroying online subsystem :Context_28
-[2024.01.20-23.37.18:031][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.01.20-23.37.18:061][633]LogSavePackage: Moving output files for package: /Game/ThirdPerson/AI/Enemy_controller
-[2024.01.20-23.37.18:062][633]LogSavePackage: Moving '../../../../../../Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Saved/Enemy_controller2CA1B49242CC38AE3BE1748643CC7C93.tmp' to '../../../../../../Users/Erich Hartmann/Documents/GitHub/Simulation.bak/AIRough/MyProject/Content/ThirdPerson/AI/Enemy_controller.uasset'
-[2024.01.20-23.37.18:069][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.86 sec)
-[2024.01.20-23.37.18:070][633]AssetCheck: New page: Asset Save: Enemy_controller
-[2024.01.20-23.37.18:070][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/AI/Enemy_controller.Enemy_controller
